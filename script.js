@@ -16,7 +16,8 @@ var arr=[
     {name: "man", image:"https://i.pinimg.com/564x/c2/34/ef/c234ef1ca6db888414ad59fb202ba985.jpg"},
     {name: "zendaya", image: "https://i.pinimg.com/564x/ba/6f/f9/ba6ff93fdc56e701adfbf460f870b90b.jpg"},
     {name: "boy" ,image: "https://i.pinimg.com/564x/58/bc/70/58bc70413647ac8ae93de25288f1d15f.jpg"},
-    {name: "spiderman" ,image: "https://i.pinimg.com/564x/75/1b/9a/751b9a98a29c605f70ef79db4d8d830d.jpg"}
+    {name: "spiderman" ,image: "https://i.pinimg.com/564x/75/1b/9a/751b9a98a29c605f70ef79db4d8d830d.jpg"},
+    {name: "wesite", image:"https://i.pinimg.com/564x/fd/23/eb/fd23ebcba3afb799f85322946158f6e0.jpg"}
 ]
 
 var clutter = ""
